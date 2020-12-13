@@ -1,0 +1,19 @@
+q1)
+
+An assignment is a statement containing the assignment operator '=' that assigns a literal value, the value of a variable or the value of an expression to a variable object.
+
+
+example 
+
+moles=3.27
+
+
+
+
+q2)
+  
+ An interpreted language is a programming langauge whose implementations execute instructions directlt and freely, without previously compiling a program into machine language instructions.
+ 
+ Meanwhile a compiled language is a programming language whose implementations are typically compilers and not interpreters.
+ 
+ 
